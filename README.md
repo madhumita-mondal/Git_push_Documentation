@@ -1,4 +1,4 @@
-## Git_push_Documentation
+# Git_push_Documentation on terminal
 # git init
 # git add .
 # git commit -m "first commit"
